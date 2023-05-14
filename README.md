@@ -1,3 +1,17 @@
+# Netflix Clone Built Using React.JS & Firebase
+![68747470733a2f2f6668736b6e696768746c6966652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f755641535871764d7a795572415066536e39704d74784f4337733839756c7a64444b4264747143502e706e67](https://github.com/Amaanfiroz12/Netflix-Clone/assets/75035561/4968d5d2-3d6a-4666-9637-6381fe81a40b)
+
+This is a clone of Netflix website built using React.JS as a Front-end . It's not a replica, and it doesn't have all the features of Netflix website. it's a similar version of Netflix with my own design touch, showing my abilities in React.JS to build something advanced like Netflix. 
+
+Take a look at the live version here:https://Amaanfiroz12.github.io/Netflix-Clone
+# Project Walk-Through
+![Screenshot (651)](https://github.com/Amaanfiroz12/Netflix-Clone/assets/75035561/3f092327-aeaa-4f74-aaa5-fcc508b0f8a1)
+
+![Screenshot (650)](https://github.com/Amaanfiroz12/Netflix-Clone/assets/75035561/34415201-77be-4555-9cbb-4b98f3ab23a7)
+
+![Screenshot (649)](https://github.com/Amaanfiroz12/Netflix-Clone/assets/75035561/e4ae97e5-cb44-479f-a0ce-25dcc21764f5)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
